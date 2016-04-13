@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bibliothecahisto04dioduoft_0012.png"; bbox 0 0 1828 3253; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 307 136 1762 611">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 307 136 357 166">
+     <span class='ocr_line' id='line_1_1' title="bbox 307 136 357 166; baseline -0.02 0"><span class='ocrx_word' id='word_1_1' title='bbox 307 136 357 166; x_wconf 78' lang='lat' dir='ltr'>Vt</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 307 241 1762 611">
+     <span class='ocr_line' id='line_1_2' title="bbox 309 241 1759 312; baseline 0 -12"><span class='ocrx_word' id='word_1_2' title='bbox 309 257 462 300; x_wconf 83' lang='lat' dir='ltr'>ctum</span> <span class='ocrx_word' id='word_1_3' title='bbox 509 255 592 298; x_wconf 85' lang='lat' dir='ltr'>cst</span> <span class='ocrx_word' id='word_1_4' title='bbox 641 254 705 298; x_wconf 85' lang='lat' dir='ltr'>ut</span> <span class='ocrx_word' id='word_1_5' title='bbox 743 241 962 299; x_wconf 75' lang='lat' dir='ltr'>Reiskii</span> <span class='ocrx_word' id='word_1_6' title='bbox 1011 242 1235 299; x_wconf 88' lang='lat' dir='ltr'>nonnisi</span> <span class='ocrx_word' id='word_1_7' title='bbox 1278 242 1538 312; x_wconf 81' lang='lat' dir='ltr'>selectaS,</span> <span class='ocrx_word' id='word_1_8' title='bbox 1617 245 1759 300; x_wconf 82' lang='lat' dir='ltr'>alio-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 307 386 1762 465; baseline 0 -21"><span class='ocrx_word' id='word_1_9' title='bbox 307 410 441 446; x_wconf 86' lang='lat' dir='ltr'>rum</span> <span class='ocrx_word' id='word_1_10' title='bbox 505 401 697 444; x_wconf 81' lang='lat' dir='ltr'>autem</span> <span class='ocrx_word' id='word_1_11' title='bbox 760 389 860 463; x_wconf 88' lang='lat' dir='ltr'>qui</span> <span class='ocrx_word' id='word_1_12' title='bbox 920 407 1156 465; x_wconf 79' lang='lat' dir='ltr'>operam</span> <span class='ocrx_word' id='word_1_13' title='bbox 1210 388 1269 444; x_wconf 88' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_14' title='bbox 1320 386 1435 444; x_wconf 87' lang='lat' dir='ltr'>hoc</span> <span class='ocrx_word' id='word_1_15' title='bbox 1484 389 1762 464; x_wconf 79' lang='lat' dir='ltr'>scriptore</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 309 534 1762 611; baseline -0.001 -21"><span class='ocrx_word' id='word_1_16' title='bbox 309 534 646 611; x_wconf 75' lang='lat' dir='ltr'>explicando</span> <span class='ocrx_word' id='word_1_17' title='bbox 687 548 1010 611; x_wconf 82' lang='lat' dir='ltr'><strong>posuerunt</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1053 536 1151 594; x_wconf 82' lang='lat' dir='ltr'>vix</span> <span class='ocrx_word' id='word_1_19' title='bbox 1199 554 1376 593; x_wconf 80' lang='lat' dir='ltr'><strong>unam</strong></span> <span class='ocrx_word' id='word_1_20' title='bbox 1426 547 1482 591; x_wconf 85' lang='lat' dir='ltr'>et</span> <span class='ocrx_word' id='word_1_21' title='bbox 1527 534 1762 591; x_wconf 81' lang='lat' dir='ltr'><strong>alteram</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 309 683 661 739">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 309 683 661 739">
+     <span class='ocr_line' id='line_1_5' title="bbox 309 683 661 739; baseline 0 -1"><span class='ocrx_word' id='word_1_22' title='bbox 309 683 661 739; x_wconf 78' lang='lat' dir='ltr'>asciscerem.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
